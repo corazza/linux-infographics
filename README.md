@@ -1,6 +1,10 @@
 ForNewbies
 ==========
 
+I’ve created two infographics with the intent of helping newbies with choosing the right GNU/Linux distro. The content is practically the same in both, but the second one has some graphical improvements that aren’t my own work.
+
+Related blogpost: http://yannbane.com/2013/06/gnulinux-infographics/.
+
 This infographic is for new users who are wanting to make the switch to GNU/Linux but are not entirely sure what distribution is good for them.
 
 It has a short description of the distribution and it's respective pros and cons.
