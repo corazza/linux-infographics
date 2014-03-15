@@ -1,0 +1,21 @@
+## Title
+Fedora
+
+## URL
+http://fedoraproject.org
+
+## Description
+Fresh packages, great new features. Comes with the Gnome 3 desktop environment which is modern and simple to use. Visit http://rpmfusion.org/Configuration after installation and follow the steps.
+
+## Pros
+ - Looks very nice by default
+ - Simple, but intuitive UI
+ - Bleeding edge software
+ - Great community
+ - Frequent update cycle
+ 
+## Cons
+ - Less stable than Debian stable-based distributions
+ - Gnome isn't very lightweight
+ - Might not be as supported as Debian-based distributions
+
