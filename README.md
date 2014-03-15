@@ -1,0 +1,4 @@
+ForNewbies
+==========
+
+GNU/Linux infographics
