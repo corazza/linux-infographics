@@ -6,9 +6,6 @@ Post about this: [jancorazza.com/2013/06/gnulinux-infographics](http://jancorazz
 
 They contain a short description of the distributions and their respective pros and cons.
 
-![poster1](https://raw.githubusercontent.com/corazza/linux-infographics/master/posters-image/poster1.jpg)
-![poster2](https://raw.githubusercontent.com/corazza/linux-infographics/master/posters-image/poster2.png)
-
 ## How do I contribute?
 
 You can contribute either by:
