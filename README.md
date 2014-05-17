@@ -20,7 +20,7 @@ You can contribute either by:
  - `images/` - additional images used in posters
  - `links.md` - useful links that may be included in a poster
  - `posters-image` - finished images that you can use (see license section below)
- - `posters-source` - GIMP (`.xcf`) files that may be edited
+ - `posters-source` - GIMP image files that may be edited
 
 ## License
 
