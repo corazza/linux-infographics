@@ -2,9 +2,12 @@
 
 These infographics are for new users who want to make the switch to GNU/Linux but are not entirely sure which distribution is the right for them.
 
-Post about this: http://jancorazza.com/2013/06/gnulinux-infographics.
+Post about this: [jancorazza.com/2013/06/gnulinux-infographics](http://jancorazza.com/2013/06/gnulinux-infographics).
 
 They contain a short description of the distributions and their respective pros and cons.
+
+![poster1](https://raw.githubusercontent.com/corazza/linux-infographics/master/posters-image/poster1.jpg =250x)
+![poster2](https://raw.githubusercontent.com/corazza/linux-infographics/master/posters-image/poster2.png =250x)
 
 ## How do I contribute?
 
