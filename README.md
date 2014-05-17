@@ -13,20 +13,20 @@ They contain a short description of the distributions and their respective pros 
 
 You can contribute either by:
 
-1. Committing a new thumbnail in `distro/`.
-2. Editing the information in `distro/` and making it more precise, useful, articulated, etc.
-3. Creating a new poster!
+1. Committing a new thumbnail in `information`.
+2. Editing text in `information` and making it more precise, useful, articulated, etc.
+3. Creating a new infographic!
 
 ## Structure
 
- - `distro/` - information about different distributions and their thumbnails
- - `images/` - additional images used in posters
- - `posters-image` - finished images that you can use (see license section below)
- - `posters-source` - GIMP image files that may be edited
+ - `infographics` - finished images that you can use (see license section below)
+ - `information` - text for infographics and thumbnails, categorized by distribution
+ - `source-gimp` - GIMP image files that may be edited
+ - `supplementary-images` - images used in the infographics
 
 ## Links
 
-This is a collection of links to useful resources, and distributions' homepages and downloads. They should be referenced when creating posters.
+This is a collection of links to useful resources, and distributions' homepages and downloads. They should be referenced when creating infographics.
 
 ### Useful resources
 
@@ -37,7 +37,7 @@ This is a collection of links to useful resources, and distributions' homepages 
  - [GNU/Linux filesystem](http://tinyurl.com/filesystem-guide)
  - [Openbox/Crunchbang guide](http://tinyurl.com/openbox-guide)
 
-### Distributions
+### Promoted distributions
 
  - [Linux Mint](http://linuxmint.com)
  - [Fedora](http://fedoraproject.org)
