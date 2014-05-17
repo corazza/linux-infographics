@@ -1,20 +1,17 @@
-GNU/Linx infographics
-=====================
+# GNU/Linx infographics
 
-This infographic is for new users who are  to make the switch to GNU/Linux but are not entirely sure what distribution is good for them.
+These infographics are for new users who want to make the switch to GNU/Linux but are not entirely sure which distribution is the right for them.
 
-Related blogpost: http://yannbane.com/2013/06/gnulinux-infographics.
+Post about this: http://jancorazza.com/2013/06/gnulinux-infographics.
 
-
-
-It has a short description of the distribution and it's respective pros and cons.
+They contain a short description of the distributions and their respective pros and cons.
 
 ## How do I contribute?
 
 You can contribute either by:
 
 1. Committing a new thumbnail in distro/
-2. Editing the textual information in distros/ and making it more correct, precise, useful, articulated, etc
+2. Editing the information in distros/ and making it more correct, precise, useful, articulated, etc
 3. Creating a new poster! By using the information and art in distro/ and images/.
 
 ## Structure
