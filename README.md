@@ -1,5 +1,5 @@
-ForNewbies
-==========
+GNU/Linx infographics
+=====================
 
 I’ve created two infographics with the intent of helping newbies with choosing the right GNU/Linux distro. The content is practically the same in both, but the second one has some graphical improvements that aren’t my own work.
 
