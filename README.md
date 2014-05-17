@@ -1,7 +1,7 @@
 # GNU/Linx infographics
 
-1. [First poster](https://raw.githubusercontent.com/corazza/linux-infographics/master/posters-image/poster1.jpg)
-2. [Second poster](https://raw.githubusercontent.com/corazza/linux-infographics/master/posters-image/poster2.png)
+1. [First infographic](https://raw.githubusercontent.com/corazza/linux-infographics/master/infographics-image/infographic1.jpg)
+2. [Second infographic](https://raw.githubusercontent.com/corazza/linux-infographics/master/infographics-image/infographic2.png)
 
 These infographics are for new users who want to make the switch to GNU/Linux but are not entirely sure which distribution is the right for them.
 
