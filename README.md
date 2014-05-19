@@ -1,7 +1,5 @@
 # GNU/Linx infographics
 
-testing
-
 1. [First infographic](https://raw.githubusercontent.com/corazza/linux-infographics/master/infographics/infographic1.jpg)
 2. [Second infographic](https://raw.githubusercontent.com/corazza/linux-infographics/master/infographics/infographic2.png)
 
